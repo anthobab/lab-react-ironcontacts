@@ -1,0 +1,12 @@
+.Contact picture {
+  display: inline-block;
+  height: 10rem;
+  width: 7rem;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.Contact img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

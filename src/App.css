@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+table {
+  margin: 0;
+  padding: 5rem;
+  width: 100%;
+}
+
+button {
+  margin: 0 0.8vw;
 }
